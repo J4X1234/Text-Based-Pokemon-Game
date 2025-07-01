@@ -1,0 +1,12 @@
+Squirtle water 44 48 65 43 tackle tail-whip
+Bulbasaur grass 45 49 49 45 growl tackle
+Charmander fire 39 52 43 65 growl scratch
+Oddish grass 45 50 55 30 absorb growth
+Bellsprout grass 50 75 35 40 vine-whip vine-whip
+Exeggcute grass 60 40 80 40 absorb hypnosis
+Poliwag water 40 50 40 90 hypnosis water-gun
+Horsea water 30 40 70 60 leer water-gun
+Tentacool water 40 40 35 70 poison-sting water-gun
+Ponyta fire 50 85 55 90 growl tackle
+Vulpix fire 38 41 40 65 ember tail-whip
+Growlithe fire 55 70 45 60 ember leer
